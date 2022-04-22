@@ -1,11 +1,10 @@
 ---
-slug: material-upload
-wiki: material/guide/upload
+slug: material-property-upload
+wiki: optical-guide/material-property-upload
 date updated: 2022-04-22 14:31
 ---
 
 # 材料物性資料上傳
-
 1. 下載 template。
    ![[1_material_upload_download_template.gif]]
 2. 確認是否有未登錄的材料。(不一樣的名稱會直接新增新的)
