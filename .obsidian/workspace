@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "material/Upload.md",
+            "file": "optical/Optical Search Profile Setting.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "material/Upload.md",
+                "file": "optical/Optical Search Profile Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,15 @@
   },
   "active": "9b66bf5b0f70f42f",
   "lastOpenFiles": [
-    "material/Upload.md"
+    "optical/Optical Search Profile Setting.md",
+    "optical/AXO Cell Gap Upload.md",
+    "optical/RDL Cell Gap Upload.md",
+    "optical/Ref Setting.md",
+    "optical/Opt Fitting.md",
+    "optical/RT Data Upload.md",
+    "optical/5_opt_search_profile_setting.gif",
+    "optical/4_opt_fitting.gif",
+    "optical/Opt Data Upload.md",
+    "product/Chip Condition Upload.md"
   ]
 }
